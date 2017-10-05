@@ -13,7 +13,7 @@ application.
 /*------------------------------------------------------------------------------
 Copyright (c) 2016, Bernecker+Rainer Industrie-Elektronik Ges.m.b.H. (B&R)
 Copyright (c) 2013, SYSTEC electronic GmbH
-Copyright (c) 2015, Kalycito Infotech Private Ltd.All rights reserved.
+Copyright (c) 2017, Kalycito Infotech Private Ltd.All rights reserved.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
